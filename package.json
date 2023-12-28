@@ -11,7 +11,7 @@
       "^.+\\.[t|j]sx?$": "babel-jest"
     }
   },
-  "author": "rijan alpalah",
+  "author": "rijan",
   "license": "ISC",
   "type": "module",
   "devDependencies": {
