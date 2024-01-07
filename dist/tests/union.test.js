@@ -20,7 +20,7 @@ describe("Union Type", function () {
                 return !value;
             }
         }
-        expect(process("Rijan")).toBe("Rijan");
+        expect(process("Rijan")).toBe("RIJAN");
         expect(process(100)).toBe(102);
         expect(process(true)).toBe(false);
     });
